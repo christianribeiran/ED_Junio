@@ -8,8 +8,7 @@ public class Temporada {
 
   public Integer fecha_estreno;
 
-        public Vector  formadas por;
-    public Serie mySerie;
+  public Serie mySerie;
     /**
    * 
    * @element-type Capitulo

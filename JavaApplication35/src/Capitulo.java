@@ -8,14 +8,12 @@ public class Capitulo {
 
   public String sinopsis;
 
-      public Vector  Pueden tener;
     public Vector  mySubtitulo;
     public Temporada myTemporada;
     /**
    * 
    * @element-type Subtitulo
    */
-  public Vector  mySubtitulo;
     /**
    * 
    * @element-type Doblaje

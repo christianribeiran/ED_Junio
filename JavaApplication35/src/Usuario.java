@@ -9,8 +9,6 @@ public class Usuario {
   public String email;
 
   public Integer fecha_nacimiento;
-
-    public Vector  Pueden escribir;
     /**
    * 
    * @element-type Critica

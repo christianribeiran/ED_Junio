@@ -6,7 +6,6 @@ public class Subtitulo {
 
   public String autor;
 
-      public Vector  myCapitulo;
-    public Vector  myCapitulo;
+  public Vector  myCapitulo;
 
 }

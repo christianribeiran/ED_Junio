@@ -13,9 +13,6 @@ public class Serie {
   public String idioma_original;
 
   public Integer puntuacion_media;
-
-    public Vector  organizan en;
-    public Vector  Organizan en;
     /**
    * 
    * @element-type Temporada

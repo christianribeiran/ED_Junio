@@ -12,8 +12,6 @@ enum Genero {
 
   drama,
 
-  drama,
-
   horror,
 
   musical,
