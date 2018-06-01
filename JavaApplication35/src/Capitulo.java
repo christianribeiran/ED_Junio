@@ -1,3 +1,4 @@
+//Comentario para probar el paso de Git a NetBeans.
 import java.util.Vector;
 
 public class Capitulo {
